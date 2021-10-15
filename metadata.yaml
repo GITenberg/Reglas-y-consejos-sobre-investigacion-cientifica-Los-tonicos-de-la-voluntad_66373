@@ -1,0 +1,35 @@
+_repo: Reglas-y-consejos-sobre-investigacion-cientifica-Los-tonicos-de-la-voluntad_66373
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ramón y Cajal, Santiago
+    aliases:
+    - Doctor Bacteria
+    - Ramon y Cajal, Santiago
+    - Cajal, Santiago Ramón y
+    - Cajal, S. R. (Santiago Ramón)
+    - Bacteria, Doctor
+    birthdate: 1852
+    deathdate: 1934
+    gutenberg_agent_id: '49893'
+    url: http://www.gutenberg.org/2009/agents/49893
+    wikipedia:
+    - https://es.wikipedia.org/wiki/Santiago_Ram%C3%B3n_y_Cajal
+    - https://en.wikipedia.org/wiki/Santiago_Ram%C3%B3n_y_Cajal
+description: ''
+gutenberg_issued: '2021-09-25'
+identifiers:
+  gutenberg: '66373'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'Q'
+- !lcsh 'Research'
+- !lcsh 'Scientists'
+- GITenberg
+title: 'Reglas y consejos sobre investigación científica
+
+  (Los tónicos de la voluntad)'
+url: http://www.gutenberg.org/ebooks/66373
