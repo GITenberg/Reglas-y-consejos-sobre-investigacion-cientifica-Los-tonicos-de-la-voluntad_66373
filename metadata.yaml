@@ -1,5 +1,8 @@
 _repo: Reglas-y-consejos-sobre-investigacion-cientifica-Los-tonicos-de-la-voluntad_66373
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66373-h/images/cover.jpg
 creator:
   author:
     agent_name: Ramón y Cajal, Santiago
@@ -17,6 +20,8 @@ creator:
     - https://es.wikipedia.org/wiki/Santiago_Ram%C3%B3n_y_Cajal
     - https://en.wikipedia.org/wiki/Santiago_Ram%C3%B3n_y_Cajal
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66373#Reglas-y-consejos-sobre-investigacion-cientifica-Los-tonicos-de-la-voluntad
 gutenberg_issued: '2021-09-25'
 identifiers:
   gutenberg: '66373'
